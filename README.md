@@ -1,0 +1,3 @@
+# yaominrepository
+
+test clone function
